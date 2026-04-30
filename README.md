@@ -6,13 +6,13 @@
 My ![Visitor Count](https://profile-counter.glitch.me/shawnnjupt/count.svg) visitor
 
 
-# I'm  shawn(xiao cong)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm  Shawn Cong<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently studying in Social University
 - 🌱 I’m currently learning **Deep learning**
 - 👯 Currently working in **Nanjing, China**
 - 🤔 I love **Music, photography**
-- 📫 How to reach me: **965798711@qq.com**
+- 📫 How to reach me: **xiaocongshawn@qq.com**
 
 
 # About My Github
